@@ -1,0 +1,25 @@
+//Maya Preference 2018 (Release 1)
+//
+//
+windowPref -topLeftCorner 225 150 -widthHeight 250 400 -maximized false -parentMain true outlinerPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 700 400 -maximized false -parentMain true hyperGraphPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false -parentMain true graphEditor1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 1400 400 -maximized false -parentMain true timeEditorPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false -parentMain true dopeSheetPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 1040 600 -maximized false -parentMain true nodeEditorPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false -parentMain true shapePanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 1040 600 -maximized false -parentMain true posePanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false -parentMain true clipEditorPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 524 470 -maximized false -parentMain true devicePanel1Window;
+windowPref -topLeftCorner 75 75 -widthHeight 1440 900 -maximized false -parentMain true hyperShadePanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 700 400 -maximized false -parentMain true dynPaintScriptedPanelWindow;
+windowPref -topLeftCorner 250 200 -widthHeight 550 562 -maximized false -parentMain true blindDataEditor1Window;
+windowPref -topLeftCorner 150 200 -widthHeight 1120 640 -maximized false -parentMain true polyTexturePlacementPanel1Window;
+windowPref -topLeftCorner 235 230 -widthHeight 1430 710 -maximized false -parentMain true contentBrowserPanel1Window;
+windowPref -topLeftCorner -13 -13 -widthHeight 2560 2048 -maximized true -parentMain false MayaWindow;
+windowPref -topLeftCorner 693 1280 -widthHeight 1092 700 -maximized false -parentMain true OptionBoxWindow;
+windowPref -topLeftCorner 210 390 -widthHeight 1306 900 -maximized false -parentMain true PreferencesWindow;
+windowPref -topLeftCorner 693 1280 -widthHeight 1100 1000 -maximized false -parentMain true projectWindow;
+windowPref -topLeftCorner 693 1280 -widthHeight 716 384 -maximized false -parentMain true LayerEditorQuickEditWindow;
+windowPref -topLeftCorner 693 1280 -widthHeight 808 974 -maximized false -parentMain true Viewport20OptionsWindow;
+windowPref -topLeftCorner 693 1280 -widthHeight 900 640 -maximized false -parentMain true NewFeatureHighlightWnd;
